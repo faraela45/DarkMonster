@@ -1,4 +1,5 @@
 **DarkMonster**
+
 ***A Dark Web Scrapping Telegram Bot***
 
 A Telegram bot that searches .onion websites using Tor-based search engines (Ahmia, DuckDuckGo, and Torch) and provides results to users in a secure and simple way.
@@ -39,7 +40,7 @@ Telegram Bot:
 
   Clone the Repository:
 
-    git clone https://github.com/your-repo/dark-web-bot.git
+    git clone https://github.com/mahhesshh/DarkMonster.git
     cd dark-web-bot
 
 Install Dependencies: Use the provided requirements.txt file to install required libraries.
@@ -53,7 +54,7 @@ Save Your Bot Token:
 
 Run the Bot: Start the bot using:
 
-     python3 bot.py
+     python3 main.py
 
 
 Usage
